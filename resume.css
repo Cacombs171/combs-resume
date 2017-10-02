@@ -41,3 +41,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+h1{
+  font-size: 40px;
+}
+
+ h1,h3{
+   font-family: 'times', sans-serif;
+ }
+
+ h3{
+   font-size: 30px;
+ }
