@@ -62,4 +62,21 @@ h1{
 	background-color: black;
 	height: 5px;
 	width: 1440px;
+	margin:40px;
+}
+
+.name{
+	float: left;
+	font-size: 60px;
+	display: inline-block;
+	margin-left: 250px;
+}
+
+.list{
+	margin: 55px;
+	font-size: 25px;
+}
+
+*{
+	background-color: grey;
 }
