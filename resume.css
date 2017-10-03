@@ -57,3 +57,9 @@ h1{
 .center{
 	text-align: center;
 }
+
+.underline{
+	background-color: black;
+	height: 5px;
+	width: 1440px;
+}
