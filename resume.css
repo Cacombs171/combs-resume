@@ -94,3 +94,18 @@ li{
 h3{
 	font-size: 45px;
 }
+
+.footer{
+	font-size: 25px;
+	float: left;
+}
+
+.fonts{
+	float: right;
+	font-size: 25px;
+}
+
+.left{
+	float: left;
+	font-size: 45px;
+}
