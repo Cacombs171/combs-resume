@@ -74,11 +74,10 @@ h1{
 }
 
 *{
-	background-color: grey;
+	background-color: white;
 }
 
 .white{
-	background-color: white;
 	padding: 25px;
 	margin: 30px;
 }
@@ -98,6 +97,7 @@ h3{
 .footer{
 	font-size: 25px;
 	float: left;
+display: inline-block;
 }
 
 .fonts{
